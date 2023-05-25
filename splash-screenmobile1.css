@@ -1,0 +1,187 @@
+.splash-screenmobile1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.splash-screenmobile1-splash-screenmobile {
+  width: 100%;
+  height: 852px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.splash-screenmobile1-access-buttons {
+  gap: 10px;
+  top: 212px;
+  left: 93px;
+  width: 206px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.splash-screenmobile1-sign-in-button {
+  gap: 10px;
+  height: 60px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(222, 222, 222, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  justify-content: center;
+}
+.splash-screenmobile1-text {
+  color: rgba(51, 51, 51, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.splash-screenmobile1-sign-up-button {
+  gap: 10px;
+  height: 60px;
+  display: flex;
+  padding: 10px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 5px;
+  justify-content: center;
+  background-color: rgba(29, 183, 71, 1);
+}
+.splash-screenmobile1-text2 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: FONTSPRING DEMO - Proxima Nova Semibold;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.splash-screenmobile1-frame53 {
+  gap: 10px;
+  top: 453px;
+  left: 27px;
+  width: 292px;
+  height: 15px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.splash-screenmobile1-frame138 {
+  top: 721px;
+  left: 0px;
+  width: 393px;
+  height: 131px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.splash-screenmobile1-group115 {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 131px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.splash-screenmobile1-group101 {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 131px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.splash-screenmobile1-group45 {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 131px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.splash-screenmobile1-menu-bar-elements {
+  top: 0px;
+  left: 0px;
+  width: 393px;
+  height: 131px;
+  position: absolute;
+}
+.splash-screenmobile1-frame139 {
+  top: 0px;
+  left: -0.5889892578125px;
+  width: 394px;
+  height: 852px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.splash-screenmobile1-group127 {
+  top: 0px;
+  left: 0px;
+  width: 394.1778564453125px;
+  height: 852px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.splash-screenmobile1-leonardo-diffusion-afooddeliveryguydashingthroughavi {
+  top: 367.61749267578125px;
+  left: 0px;
+  width: 376px;
+  height: 393px;
+  position: absolute;
+}
+.splash-screenmobile1-top-image {
+  top: 0px;
+  left: 0.5889892578125px;
+  width: 393px;
+  height: 462px;
+  position: absolute;
+}
+.splash-screenmobile1-bottom-image {
+  top: 386px;
+  left: 0.5889892578125px;
+  width: 333px;
+  height: 466px;
+  position: absolute;
+}
+.splash-screenmobile1-lowerright-image {
+  top: 375px;
+  left: 284.5889892578125px;
+  width: 109px;
+  height: 477px;
+  position: absolute;
+}
