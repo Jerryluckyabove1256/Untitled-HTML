@@ -1,0 +1,27 @@
+{
+  "projectName": "Hungry Hero",
+  "designFramework": "bootstrap5",
+  "useRouting": true,
+  "routingHandler": "appConnect",
+  "routingFile": "/js/routes.js",
+  "styleFile": "/css/style.css",
+  "assetsFolder": "/assets",
+  "frameworks": [
+    {
+      "name": "appConnect",
+      "type": "local"
+    },
+    {
+      "name": "bootstrap5",
+      "type": "local"
+    },
+    {
+      "name": "capacitor",
+      "type": "local"
+    }
+  ],
+  "hostingType": "wappler",
+  "projectServerModel": "node",
+  "runtime": "capacitor",
+  "projectType": "app"
+}
